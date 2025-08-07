@@ -48,7 +48,7 @@ technical_background:
   
 currently_learning: ["TensorFlow"]
 2025 Goals: ["Learn new things everyday."]
-hobbies: ["drinking"]
+hobbies: ["Hanging out with friends, Learning new things, and sports."]
 ```
   
 ---  
