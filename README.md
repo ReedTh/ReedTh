@@ -10,7 +10,7 @@ education:
   [
     "The University of Texas at Austin",
     "Major - Mechanical Engineering",
-    "Minor - Computer Science"
+    "Minor - Computer Science",
   ]
 company: Lockheed Martin
 
