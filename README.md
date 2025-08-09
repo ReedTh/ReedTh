@@ -1,6 +1,4 @@
-<p align = "center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello!" />
-</p>
+
 
 <h1 align="center">
   Let's Connect and have a Chat!💬
