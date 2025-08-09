@@ -1,9 +1,3 @@
-
-
-<h1 align="center">
-  Let's Connect and have a Chat!💬
-</h1>
-
 <p align = "center">
 <a href="https://www.instagram.com/reedthompson__/">
   <img  height="50" src="https://github.com/user-attachments/assets/ac8f914e-3ee8-494a-96f2-a60f96c6184b" />
