@@ -1,10 +1,8 @@
 
 ---
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<h2> 👨🏻‍💻 &nbsp;About Me!</h2>
 
 ```yaml
-name: Reed Thompson
-located_in: Fort Worth, Texas
 current_job: AI/ML Engineering Intern
 education:
   [
@@ -17,7 +15,6 @@ company: Lockheed Martin
 fields_of_interests:
   [
     "AI",
-    "Data Science",
     "Machine Learning",
     "Computer Vision",
     "Robotics",
@@ -31,8 +28,6 @@ technical_background:
   ]
   
 currently_learning: ["TensorFlow", "C++", "Minicom"]
-2025 Goals: ["Improve every single day"]
-hobbies: ["Hanging out with friends, Learning new things, and sports."]
 ```
   
 ---  
