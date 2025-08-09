@@ -8,8 +8,9 @@ located_in: Fort Worth, Texas
 current_job: AI/ML Engineering Intern
 education:
   [
-    "Self-Taught Developer and Designer",
-    "The University of Texas at Austin - Mechanical Engineering w/ CS Minor",
+    "The University of Texas at Austin",
+    "Major - Mechanical Engineering",
+    "Minor - Computer Science"
   ]
 company: Lockheed Martin
 
@@ -21,15 +22,16 @@ fields_of_interests:
     "Computer Vision",
     "Robotics",
     "CAD",
-    "3D Modeling",
+    "Software Integration",
   ]
 technical_background:
   [
     "Intern - AI/ML Skunk Works",
+    "Team Lead FRC & FTC Robotics"
   ]
   
-currently_learning: ["TensorFlow"]
-2025 Goals: ["Learn new things everyday."]
+currently_learning: ["TensorFlow", "C++", "Minicom"]
+2025 Goals: ["Improve every single day"]
 hobbies: ["Hanging out with friends, Learning new things, and sports."]
 ```
   
