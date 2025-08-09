@@ -1,14 +1,3 @@
-<p align = "center">
-<a href="https://www.instagram.com/reedthompson__/">
-  <img  height="50" src="https://github.com/user-attachments/assets/ac8f914e-3ee8-494a-96f2-a60f96c6184b" />
-</a>
-
-<a href="https://www.linkedin.com/in/reed-thompson0/">
- <img height="50" src="https://github.com/user-attachments/assets/f96907e3-bf59-4cc6-bb2f-c9fe5806c582" />
-</a>
-</p>
-
-
 ---
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
