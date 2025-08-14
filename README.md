@@ -27,7 +27,7 @@ technical_background:
     "Team Lead FRC & FTC Robotics"
   ]
   
-currently_learning: ["TensorFlow", "C++", "Minicom"]
+currently_learning: ["TensorFlow", "Java"]
 ```
   
 ---  
