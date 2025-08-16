@@ -10,7 +10,6 @@ education:
     "Major - Mechanical Engineering",
     "Minor - Computer Science",
   ]
-company: Lockheed Martin
 
 fields_of_interests:
   [
@@ -23,7 +22,7 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Intern - AI/ML Skunk Works",
+    "Lockheed Martin Intern - AI/ML Skunk Works",
     "Team Lead FRC & FTC Robotics"
   ]
   
